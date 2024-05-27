@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://austin-weeks.github.io/random-quote-machine/",
+  "homepage": "https://austin-weeks.github.io/random-quote-machine",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
