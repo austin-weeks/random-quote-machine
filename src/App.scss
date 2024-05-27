@@ -12,6 +12,7 @@ $quote-box-bottom: rgb(137, 137, 137);
     background: linear-gradient($quote-box-top, $quote-box-bottom);
     color: white;
     border-radius: 10px;
+    box-shadow: 0 0 10px grey;
     width: calc(100vw - 8rem);
     max-width: 650px;
     padding: 2rem;
