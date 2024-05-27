@@ -1,6 +1,6 @@
 {
   "name": "random-quote-machine",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://austin-weeks.github.io/random-quote-machine/",
