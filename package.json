@@ -1,9 +1,9 @@
 {
+  "homepage": "/random-quote-machine",
   "name": "random-quote-machine",
   "private": false,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
-  "homepage": "https://austin-weeks.github.io/random-quote-machine",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
