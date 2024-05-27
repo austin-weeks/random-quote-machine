@@ -1,0 +1,39 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#quote-box {
+  background: linear-gradient(rgb(163, 163, 163), rgb(137, 137, 137));
+  color: white;
+  border-radius: 10px;
+  width: calc(100vw - 8rem);
+  max-width: 650px;
+  padding: 2rem;
+}
+#quote-box .text {
+  text-align: left;
+  font-size: 1.2rem;
+}
+#quote-box .text ::before {
+  padding-left: 0.1em;
+  content: "";
+}
+#quote-box #author {
+  text-align: right;
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+  margin-right: 1rem;
+}
+#quote-box #buttons {
+  display: flex;
+  gap: 2rem;
+}
+#quote-box .quote-icon {
+  position: relative;
+  top: 0.5em;
+  left: -0.3em;
+  margin: 0;
+}/*# sourceMappingURL=App.css.map */
