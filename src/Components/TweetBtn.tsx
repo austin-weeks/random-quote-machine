@@ -12,7 +12,7 @@ function TweetBtn({quote}: Props) {
     return (
         <a href={`${baseTweetURL}"${quote.quote}" - ${quote.author}`} target="_blank" id="tweet-quote">
             <button>
-                <TwitterLogo size={24} color="#151502" weight="bold" />
+                <TwitterLogo size={24} weight="bold" />
             </button>
         </a>
     );
